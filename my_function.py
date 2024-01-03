@@ -1,6 +1,6 @@
 def add_numbers(a, b):
     """
-    Adds two numbers and returns the result.
+    Adds two nnnumbers and returns the result.
     
     Parameters:
     - a (int or float): The first number.
