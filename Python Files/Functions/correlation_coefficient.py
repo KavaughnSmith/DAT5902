@@ -1,3 +1,5 @@
+import numpy as np
+
 def correlation_coefficient(df, col1, col2):
     x = df[col1]
     y = df[col2]

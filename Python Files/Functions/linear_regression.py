@@ -1,4 +1,7 @@
+import numpy as np
+
 def linear_regression(x, y):
+
     meanx = np.mean(x)
     meany = np.mean(y)
     sigmax  = np.std(x)
